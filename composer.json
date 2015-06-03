@@ -5,6 +5,7 @@
     "homepage": "http://www.cyberhouse.at/",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
-    },
+    }
+}
 
 
