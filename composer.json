@@ -1,0 +1,10 @@
+{
+    "name": "wlwwt/magento-improve-api",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "homepage": "http://www.cyberhouse.at/",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+
+
